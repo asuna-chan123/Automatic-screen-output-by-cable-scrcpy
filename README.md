@@ -33,8 +33,3 @@ C:\scrcpy\run_scrcpy_monitor.vbs
 #Change the path if you put the file somewhere else
 6.Other problems
 ---
-
-```
- C:\scrcpy\run_scrcpy_monitor.vbs
-```
----
