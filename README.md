@@ -1,5 +1,4 @@
 # Automatic screen output by cable, only for Android
----
 
 1.Dowload File.
 ---
