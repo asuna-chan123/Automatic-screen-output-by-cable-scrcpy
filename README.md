@@ -26,10 +26,12 @@ shell:startup
 Paste the 2 files you just copied into the Startup folder
 
 6.Testing.(Windown + R)
+---
 Enter the following command into the run block.
 ```
 C:\scrcpy\run_scrcpy_monitor.vbs
 ```
 #Change the path if you put the file somewhere else
+
 6.Other problems
 ---
