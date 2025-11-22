@@ -31,7 +31,7 @@ Enter the following command into the run block.
 ```
 C:\scrcpy\run_scrcpy_monitor.vbs
 ```
-#Change the path if you put the file somewhere else
+# Change the path if you put the file somewhere else
 
 6.Other problems
 ---
