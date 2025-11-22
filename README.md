@@ -36,7 +36,7 @@ C:\scrcpy\run_scrcpy_monitor.vbs
 6.Other problems
 ---
 -File not working:
-
+---
 Please check the link again if it is different I recommend.
 
 Open "usb_monitor file" with notepad
@@ -50,6 +50,5 @@ Edit the following line:
 
 
 -File working only one time:
-
-When starting, 2 run boxes will appear, just press run 1 box and press X to close the other box
 ---
+When starting, 2 run boxes will appear, just press run 1 box and press X to close the other box
