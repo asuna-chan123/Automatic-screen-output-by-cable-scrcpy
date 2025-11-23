@@ -1,4 +1,4 @@
-# Automatic screen output by cable, only for Android
+# Automatic screen output by cable, only for Android(Only 10MB ram)
 
 1.Dowload File.
 ---
