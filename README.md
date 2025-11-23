@@ -8,13 +8,9 @@ Scrcpy
 ---
 Recommended: C:/scrcpy
 
-3.Testing.(Windown + R)
+3.Testing.
 ---
-Enter the following command into the run block.
-```
-C:\scrcpy\run_scrcpy_monitor.vbs
-```
-# Change the path if you put the file somewhere else
+Run file "scrcpy_monitor" and drag to home screen
 
 4.Other problems
 ---
