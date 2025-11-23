@@ -8,24 +8,7 @@ Scrcpy
 ---
 Recommended: C:/scrcpy
 
-3.Copy.
----
-Go to scrcpy and find the file named: "run_scrcpy_monitor"& "USB scrcpy monitor".
-
-Copy it.
-
-4.Use key combinations (Windown + R).
----
-Enter the following command into the run block
-```
-shell:startup
-```
-
-5.Paste.
----
-Paste the 2 files you just copied into the Startup folder
-
-6.Testing.(Windown + R)
+3.Testing.(Windown + R)
 ---
 Enter the following command into the run block.
 ```
@@ -33,7 +16,7 @@ C:\scrcpy\run_scrcpy_monitor.vbs
 ```
 # Change the path if you put the file somewhere else
 
-6.Other problems
+4.Other problems
 ---
 -File not working:
 ---
@@ -47,8 +30,3 @@ Edit the following line:
                           ↑
                         Change to the path you placed the file
 ```
-
-
--File working only one time:
----
-When starting, 2 run boxes will appear, just press run 1 box and press X to close the other box
