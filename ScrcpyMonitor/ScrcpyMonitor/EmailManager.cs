@@ -9,10 +9,10 @@ namespace ScrcpyMonitor
 {
     public static class EmailManager
     {
-        private const string ServiceId = "service_vu53llc";
-        private const string TemplateId = "template_v2yqeq7";
-        private const string PublicKey = "4sIrss8KXX4L0mncq";
-        private const string ApiUrl = "https://api.emailjs.com/api/v1.0/email/send";
+        private const string ServiceId = "";
+        private const string TemplateId = "";
+        private const string PublicKey = "";
+        private const string ApiUrl = "";
         
         public const string TailscaleLink = "https://login.tailscale.com/admin/invite/5dhW6Fi9N7XBcMECXPW711";
 
